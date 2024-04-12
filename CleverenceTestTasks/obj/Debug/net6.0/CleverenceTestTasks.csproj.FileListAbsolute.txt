@@ -1,0 +1,14 @@
+C:\Users\simp\source\repos\CleverenceTestTasks\CleverenceTestTasks\bin\Debug\net6.0\CleverenceTestTasks.exe
+C:\Users\simp\source\repos\CleverenceTestTasks\CleverenceTestTasks\bin\Debug\net6.0\CleverenceTestTasks.deps.json
+C:\Users\simp\source\repos\CleverenceTestTasks\CleverenceTestTasks\bin\Debug\net6.0\CleverenceTestTasks.runtimeconfig.json
+C:\Users\simp\source\repos\CleverenceTestTasks\CleverenceTestTasks\bin\Debug\net6.0\CleverenceTestTasks.dll
+C:\Users\simp\source\repos\CleverenceTestTasks\CleverenceTestTasks\bin\Debug\net6.0\CleverenceTestTasks.pdb
+C:\Users\simp\source\repos\CleverenceTestTasks\CleverenceTestTasks\obj\Debug\net6.0\CleverenceTestTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simp\source\repos\CleverenceTestTasks\CleverenceTestTasks\obj\Debug\net6.0\CleverenceTestTasks.AssemblyInfoInputs.cache
+C:\Users\simp\source\repos\CleverenceTestTasks\CleverenceTestTasks\obj\Debug\net6.0\CleverenceTestTasks.AssemblyInfo.cs
+C:\Users\simp\source\repos\CleverenceTestTasks\CleverenceTestTasks\obj\Debug\net6.0\CleverenceTestTasks.csproj.CoreCompileInputs.cache
+C:\Users\simp\source\repos\CleverenceTestTasks\CleverenceTestTasks\obj\Debug\net6.0\CleverenceTestTasks.dll
+C:\Users\simp\source\repos\CleverenceTestTasks\CleverenceTestTasks\obj\Debug\net6.0\refint\CleverenceTestTasks.dll
+C:\Users\simp\source\repos\CleverenceTestTasks\CleverenceTestTasks\obj\Debug\net6.0\CleverenceTestTasks.pdb
+C:\Users\simp\source\repos\CleverenceTestTasks\CleverenceTestTasks\obj\Debug\net6.0\CleverenceTestTasks.genruntimeconfig.cache
+C:\Users\simp\source\repos\CleverenceTestTasks\CleverenceTestTasks\obj\Debug\net6.0\ref\CleverenceTestTasks.dll
